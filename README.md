@@ -1,5 +1,6 @@
 # winxp-update-root-certificate
-A simple script and bundle can one-click update root certificate(CA) of unsupported Windows XP
+A simple script and bundle can one-click update root certificate(CA) of unsupported Windows XP.
+Tested with Windows XP SP3 with the latest POSReady2009 patches installed. (I think it should works with the original XPSP3, POSReady2009 patches are not necessary.)
 # How does it work?
 Just **run [update.bat]**, it will automatically download the latest CAs from below URLs and update them to your system.
 
